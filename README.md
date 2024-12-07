@@ -7,3 +7,5 @@
   <li>CSS</li>
   <li>JavaScript</li>
 </ul>
+<h2>Acesso ao projeto:</h2>
+https://alugames-coral.vercel.app/
